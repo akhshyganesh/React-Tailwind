@@ -1,8 +1,25 @@
-# React + Vite
+# React Tailwind CSS Template
+## This is repo is starter kit for your next React-Tailwind based project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+You can clone this repo and start using it to create your application. Make sure you have node above 18
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ✨LET's Get the Project Started✨
+
+
+## Installation
+
+For Development...
+
+```sh
+git clone https://github.com/akhshyganesh/React-Tailwind.git
+cd React-Tailwind
+npm install
+npm run dev
+```
+
+For production...
+
+```sh
+npm run build
+```
